@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Izabel Forte</h1>
-<h3 align="center">A Developer Student</h3>
+<h3 align="center">Junior Developer</h3>
 
 - 🌱 I’m currently learning **Asp.NET, C#, JAVA e C++**
 
